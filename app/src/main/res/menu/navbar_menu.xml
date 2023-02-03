@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title=""
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always"/>
+    <item android:title=""
+        android:id="@+id/conversationsFragment"
+        android:icon="@drawable/ic_message"
+        app:showAsAction="always" />
+    <item android:title=""
+        app:showAsAction="always"/>
+    <item android:title=""
+        android:icon="@drawable/ic_like"
+        app:showAsAction="always"/>
+    <item android:title=""
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="always"
+        android:id="@+id/profileFragment"/>
+</menu>

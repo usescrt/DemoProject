@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dsadsa">
+
+    </dimen>
+    <style name="FabShape">
+        <item name="cornerSize">50%</item>
+        <item name="cornerFamily">cut</item>
+        <item name="android:rotation">15</item>
+        <item name="imageRotate">15</item>
+        <item name="transitionPathRotate">15</item>
+    </style>
+</resources>
